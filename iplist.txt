@@ -7,6 +7,12 @@ https://lists.blocklist.de/lists/all.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
 https://www.binarydefense.com/banlist.txt
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
+https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 dynamic
 https://www.abuseipdb.com/check?query=
 https://www.ipqualityscore.com/ip-reputation-check/lookup/
