@@ -1,0 +1,11 @@
+static
+https://zonefiles.io/f/compromised/ip/live/
+https://zonefiles.io/f/compromised/ip/full/
+https://www.binarydefense.com/banlist.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
+https://lists.blocklist.de/lists/all.txt
+https://cinsscore.com/list/ci-badguys.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
+dynamic
+https://www.abuseipdb.com/check?query=
+https://www.ipqualityscore.com/ip-reputation-check/lookup/
