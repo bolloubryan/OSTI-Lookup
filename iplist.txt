@@ -6,6 +6,7 @@ https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
 https://lists.blocklist.de/lists/all.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
+https://www.binarydefense.com/banlist.txt
 dynamic
 https://www.abuseipdb.com/check?query=
 https://www.ipqualityscore.com/ip-reputation-check/lookup/
